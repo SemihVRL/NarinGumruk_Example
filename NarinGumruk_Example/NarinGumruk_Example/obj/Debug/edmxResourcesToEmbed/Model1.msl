@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Narin_Gumruk_ExampleProjectModelStoreContainer" CdmEntityContainer="Narin_Gumruk_ExampleProjectEntities">
+    <EntitySetMapping Name="KullaniciExample_TBL">
+      <EntityTypeMapping TypeName="Narin_Gumruk_ExampleProjectModel.KullaniciExample_TBL">
+        <MappingFragment StoreEntitySet="KullaniciExample_TBL">
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Yas" ColumnName="Yas" />
+          <ScalarProperty Name="DogumYeri" ColumnName="DogumYeri" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sehir_TBL">
+      <EntityTypeMapping TypeName="Narin_Gumruk_ExampleProjectModel.Sehir_TBL">
+        <MappingFragment StoreEntitySet="Sehir_TBL">
+          <ScalarProperty Name="Sehir_ID" ColumnName="Sehir_ID" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

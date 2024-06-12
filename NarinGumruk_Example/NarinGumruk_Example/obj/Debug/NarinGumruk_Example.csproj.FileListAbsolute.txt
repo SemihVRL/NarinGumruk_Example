@@ -1,0 +1,16 @@
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\NarinGumruk_Example.exe.config
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\NarinGumruk_Example.exe
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\NarinGumruk_Example.pdb
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\EntityFramework.dll
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\EntityFramework.xml
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.Properties.Resources.resources
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGum.FC316AC9.Up2Date
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.exe
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.pdb
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.KullaniciForm.resources
+C:\Users\semih\source\repos\NarinGumruk_Example\NarinGumruk_Example\obj\Debug\NarinGumruk_Example.SehirForm.resources

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Narin_Gumruk_ExampleProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="KullaniciExample_TBL">
+    <Key>
+      <PropertyRef Name="KullaniciID" />
+    </Key>
+    <Property Name="KullaniciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Yas" Type="Int16" />
+    <Property Name="DogumYeri" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Sehir_TBL">
+    <Key>
+      <PropertyRef Name="Sehir_ID" />
+    </Key>
+    <Property Name="Sehir_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Sehir" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Narin_Gumruk_ExampleProjectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KullaniciExample_TBL" EntityType="Self.KullaniciExample_TBL" />
+    <EntitySet Name="Sehir_TBL" EntityType="Self.Sehir_TBL" />
+  </EntityContainer>
+</Schema>
